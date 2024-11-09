@@ -17,4 +17,4 @@ I'm a Software Engineer with a passion for creating innovative solutions to comp
 - I'm bilingual in Chinese and English!
 - I love experimenting with new tech and building side projects in my free time.
 
-Project in ReRepositories
+Project in Repositories
