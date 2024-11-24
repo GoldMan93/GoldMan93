@@ -9,7 +9,7 @@ I'm a Software Engineer with a passion for creating innovative solutions to comp
 ## 🎓 Education
 - **Bachelor of Engineering (Honours) and Master of Engineering**  
   The University of Queensland, Brisbane, Australia  
-  2020 – 2024 | GPA: 5.6
+  2020 – 2024 | Dean's accommodation excellence award 
 ## 📫 Get In Touch
 - **Email:** jasonpsc930@gmail.com
 - **LinkedIn:** [Sicheng Pan](https://www.linkedin.com/in/sicheng-pan-24a084192)
