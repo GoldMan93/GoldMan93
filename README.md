@@ -7,7 +7,7 @@ I'm a Software Engineer with a passion for creating innovative solutions to comp
 - **Team Member at Leon’s Tech** (Aug 2022 – Nov 2022)
   - Handled sales, customer service, and tech repairs independently.
 ## 🎓 Education
-- **Bachelor of Engineering (Honours) and Master of Engineering**  
+- **Master of Engineering and Bachelor of Engineering (Honours)**  
   The University of Queensland, Brisbane, Australia  
   2020 – 2024 | Dean's accommodation excellence award 
 ## 📫 Get In Touch
