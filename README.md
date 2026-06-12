@@ -1,5 +1,5 @@
 # Hi, I'm Sicheng Pan 👋
-I'm a Software Engineer with a passion for creating innovative solutions to complex problems. With a background in Software Engineering, I have experience in full-stack development, cloud computing, and AI-driven applications.
+I'm a Software Engineer passionate about creating innovative solutions to complex problems. With a background spanning software engineering, embedded systems, 3D modelling, full-stack development, cloud computing, and AI-driven applications, I enjoy building products that bridge hardware and software. My experience includes developing IoT and embedded solutions using platforms such as arduino, Raspberry Pi and ESP32.
 ## 💼 Experience
 - **Full Stack Engineer at Foucault Dynamics** (Jan 2023 – Jun 2024)
   - Reconstructed the backend system using PHP and Java on Google Cloud.
